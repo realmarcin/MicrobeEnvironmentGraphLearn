@@ -28,12 +28,14 @@ The analysis can be replicated as follows:
    
    ```masterG.edgelist_col12_nodes_meta.txt```
    
-   contains node types formatted as metadata for the [embedding projector](https://projector.tensorflow.org/).
+   contains node types formatted as metadata for the embedding projector (see below).
 
 3. Run SNAP node2vec with the following parameters and [slurm script](https://github.com/realmarcin/MicrobeEnvironmentGraphLearn/blob/master/run_kgcovid_l100_r100.sl).
 
 
-4. The resulting embeddings can be visualized using the [UMAP notebook](https://github.com/realmarcin/MicrobeEnvironmentGraphLearn/blob/master/embedding_umap.ipynb). 
+4. The resulting embeddings can be visualized:
+- Using the [UMAP notebook](https://github.com/realmarcin/MicrobeEnvironmentGraphLearn/blob/master/embedding_umap.ipynb). 
+- Using the [embedding projector](https://projector.tensorflow.org/).
 
 
 
