@@ -9,6 +9,7 @@ The analysis can be replicated as follows:
    ```masterG.edgelist.tsv```
 
 2. Assuming in main repository directory, run:
+
    ```make```
 
    This will generate a set of files and the file:
