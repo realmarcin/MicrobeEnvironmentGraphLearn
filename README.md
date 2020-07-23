@@ -13,29 +13,20 @@ The analysis can be replicated as follows:
 
 This will generate a set of files and the file:
 
-``masterG_edges.tsv```
+```masterG_edges.tsv```
 
 will be formatted to work with the Embiggen package.
 
-3. To generate input files for SNAP node2vec and the online embedding projector:
+The file:
+```masterG_edges_nodes_intindex.txt```
 
-- download ```MAK.jar```
+will be formatted to work with the SNAP framework algorithms, including node2vec.
 
-```curl https://genomics.lbl.gov/~marcin/MAK.jar > MAK.jar```
+In addition, the file:
+```masterG.edgelist_col12_nodes_meta.txt```
+will be node types formatted for the online embedding projector.
 
-- run to convert to integer indices and node type file:
-
-tail -n+2 masterG_edges.tsv > masterG_edges_nohead.tsv
-java -classpath MAK.jar DataMining.util.EdgestoInts masterG_edges_nohead.tsv
-
-this will generate the following files:
-```
-masterG.edgelist_intindex.txt
-masterG.edgelist_col12_nodes_meta.txt
-masterG.edgelist_col12_nodes_intindex.txt
-```
-
-4. Run SNAP node2vec with the following parameters and slurm script using ```masterG.edgelist_intindex.txt``` as input:
+3. Run SNAP node2vec with the following parameters and slurm script using ```masterG.edgelist_intindex.txt``` as input:
 ```
 #!/bin/bash
 #SBATCH --qos=lr_normal
@@ -55,6 +46,8 @@ date
 
 date
 ```
+
+4. The resulting embeddings can be visualized using the UMAP notebook in [this repository] (https://github.com/realmarcin/MicrobeEnvironmentGraphLearn/blob/master/embedding_umap.ipynb). 
 
 
 
