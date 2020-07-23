@@ -27,6 +27,7 @@ The analysis can be replicated as follows:
    In addition, the file:
    
    ```masterG.edgelist_col12_nodes_meta.txt```
+   
    contains node types formatted as metadata for the [embedding projector](https://projector.tensorflow.org/).
 
 3. Run SNAP node2vec with the following parameters and [slurm script](https://github.com/realmarcin/MicrobeEnvironmentGraphLearn/blob/master/run_kgcovid_l100_r100.sl).
