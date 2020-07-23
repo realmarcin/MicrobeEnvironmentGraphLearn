@@ -24,7 +24,7 @@ The analysis can be replicated as follows:
 
    In addition, the file:
    ```masterG.edgelist_col12_nodes_meta.txt```
-   will be node types formatted for the online embedding projector.
+   contains node types formatted as metadata for the [embedding projector](https://projector.tensorflow.org/).
 
 3. Run SNAP node2vec with the following parameters and slurm script using ```masterG.edgelist_intindex.txt``` as input:
 ```
