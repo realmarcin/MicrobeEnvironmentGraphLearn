@@ -1,0 +1,1000 @@
+Sample:0408-FW021.46.11.27.12	Subsample:0408-FW021.46.11.27.12.02	{'weight': 1}
+Sample:0408-FW021.46.11.27.12	Experiment:100 Well	{'weight': 1}
+Sample:0408-FW021.46.11.27.12	Subsample:0408-FW021.46.11.27.12.10	{'weight': 1}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_11	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_PC2_Cluster:All Samples_167	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_20	{}
+Subsample:0408-FW021.46.11.27.12.02	Sample_Meas_Cluster:100 Well_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_family_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_family_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_family_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_genus_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_genus_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_genus_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_4	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_4	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_3	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_2	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_1	{}
+Subsample:0408-FW021.46.11.27.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Experiment:100 Well	Sample:0408-FW021.7.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-FW106.7.25.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-FW233.2.17.99.11.28.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-FW303.11.10.23.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-FW303.11.2.20.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-FW410.28.46.11.13.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-FW510.26.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-FW602.2.26.2.11.28.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW056.87.1.8.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW057.10.1.8.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW086.25.12.3.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW101.11.13.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW101.7.25.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW115.2.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW127.16.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW148.12.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW151.12.12.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW162.37.2.19.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW190.22.12.11.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW198.41.2.11.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW199.42.1.28.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW223.39.1.8.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW228.12.2.4.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW246.1.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW247.7.11.14.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW283.43.1.29.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW314.97.2.19.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW346.47.11.27.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW526.15.11.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW621.21.12.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW631.98.12.11.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW636.32.1.28.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW641.30.1.23.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW654.0.1.7.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW685.6.1.8.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW694.33.12.3.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW704.5.12.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW705.9.2.21.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW706.96.12.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW714.34.2.12.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW736.14.12.3.12	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW754.40.1.7.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW760.18.1.29.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW761.29.1.28.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW763.23.1.22.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW764.23.1.11.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW773.35.2.4.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW779.8.2.18.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW803.31.1.23.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW804.13.2.11.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-GW929.2.11.13	{'weight': 1}
+Experiment:100 Well	Sample:0408-PTMW02.4.12.11.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-DP16D.67.11.27.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW104.67.11.14.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW104.7.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW106.11.13.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW109.1.7.25.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW109.2.7.25.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW109.35.61.11.14.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW109.40.92.11.14.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW126.7.25.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW215.84.11.27..12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW300.59.10.19.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW301.7.25.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW301.81.10.19.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW301.81.2.20.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW511.61.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW511.7.26.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW602.2.26.2.11.28.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-FW603.55.12.3.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW066.71.2.20.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW084.56.11.28.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW085.58.12.3.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW089.62.1.7.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW098.57.1.22.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW101.11.13.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW101.7.25.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW105.12.11.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW107.91.12.11.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW115.2.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW122.78.11.14.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW123.93.11.14.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW125.85.2.20.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW190.22.12.11.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW220.50.12.12.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW246.1.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW271.66.2.18.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW345.51.11.27.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW346.47.11.27.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW350.74.2.12.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW363.94.1.22.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW383.12.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW384.12.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW385.80.2.18.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW526.15.11.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW531.83.11.28.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW533.48.11.28.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW537.24.11.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW60.1A.60.2.4.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW639.90.1.23.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW658.63.1.23.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW683.53.2.18.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW704.5.12.17.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW715.65.2.12.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW736.14.12.3.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW737.12.12.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW750.28.12.12.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW753.79.1.7.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW755.69.1.8.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW765.77.1.11.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW773.35.2.4.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW775.88.1.29.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW782.72.2.18.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW800.12.12.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW921.86.1.28.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW925.68.1.28.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-GW928.54.2.11.13	{'weight': 1}
+Experiment:100 Well	Sample:0411-PTMW02.4.12.11.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-TPB16.7.26.12	{'weight': 1}
+Experiment:100 Well	Sample:0411-TPB16.81.11.28.12	{'weight': 1}
+Subsample:0408-FW021.46.11.27.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_class_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_order_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_family_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_genus_6	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_species_45	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_FPT_Cluster:100 Well: 10 Micron Filter_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_PC2_Cluster:All Samples_163	{}
+Subsample:0408-FW021.46.11.27.12.10	Sample_PC2_Cluster:100 Well: 10 Micron Filter_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_class_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_class_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_class_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_family_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_family_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_family_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_genus_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_genus_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_genus_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_1	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_4	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_3	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_2	{}
+Subsample:0408-FW021.46.11.27.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_1	{}
+Sample:0408-FW021.7.26.12	Subsample:0408-FW021.7.26.12.02	{'weight': 1}
+Sample:0408-FW021.7.26.12	Subsample:0408-FW021.7.26.12.3	{'weight': 1}
+Subsample:0408-FW021.7.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.7.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW021.7.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW021.7.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW021.7.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW021.7.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW021.7.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_11	{}
+Subsample:0408-FW021.7.26.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW021.7.26.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW021.7.26.12.02	Sample_PC2_Cluster:All Samples_167	{}
+Subsample:0408-FW021.7.26.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_20	{}
+Subsample:0408-FW021.7.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_family_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_family_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_family_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_genus_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_genus_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_genus_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_4	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_genus_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_4	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_1	{}
+Subsample:0408-FW021.7.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_esv_3	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_esv_2	{}
+Subsample:0408-FW021.7.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_esv_1	{}
+Subsample:0408-FW021.7.26.12.3	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW021.7.26.12.3	Sample_PC2_Cluster:All Samples_167	{}
+Sample:0408-FW106.7.25.12	Subsample:0408-FW106.7.25.12.02	{'weight': 1}
+Subsample:0408-FW106.7.25.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW106.7.25.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW106.7.25.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW106.7.25.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW106.7.25.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW106.7.25.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW106.7.25.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_11	{}
+Subsample:0408-FW106.7.25.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW106.7.25.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW106.7.25.12.02	Sample_PC2_Cluster:All Samples_191	{}
+Subsample:0408-FW106.7.25.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_21	{}
+Subsample:0408-FW106.7.25.12.02	Sample_Meas_Cluster:100 Well_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_4	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_species_3	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_species_2	{}
+Subsample:0408-FW106.7.25.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_species_1	{}
+Subsample:0408-FW106.7.25.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Sample:0408-FW233.2.17.99.11.28.12	Subsample:0408-FW233.2.17.99.11.28.12.02	{'weight': 1}
+Sample:0408-FW233.2.17.99.11.28.12	Subsample:0408-FW233.2.17.99.11.28.12.10	{'weight': 1}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_8	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_26	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_PC2_Cluster:All Samples_62	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Sample_Meas_Cluster:100 Well_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_phylum_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_phylum_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_phylum_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_class_4	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_class_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_class_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_family_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_family_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_family_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_39	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_38	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_37	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_36	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_35	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_34	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_33	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_32	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_31	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_30	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_29	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_28	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_27	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_26	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_25	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_24	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_23	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_22	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_21	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_20	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_19	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_18	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_17	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_16	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_15	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_14	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_13	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_12	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_11	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_10	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_9	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_8	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_7	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_6	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_5	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_4	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_species_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_esv_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_esv_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_order_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_family_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_genus_6	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_species_31	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_FPT_Cluster:100 Well: 10 Micron Filter_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_PC2_Cluster:All Samples_47	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Sample_PC2_Cluster:100 Well: 10 Micron Filter_6	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_phylum_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_phylum_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_phylum_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_class_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_class_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_class_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_order_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_order_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_order_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_family_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_family_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_family_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_genus_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_genus_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_genus_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_1	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_esv_2	{}
+Subsample:0408-FW233.2.17.99.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_esv_1	{}
+Sample:0408-FW303.11.10.23.12	Subsample:0408-FW303.11.10.23.12.02	{'weight': 1}
+Sample:0408-FW303.11.10.23.12	Subsample:0408-FW303.11.10.23.12.10	{'weight': 1}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_10	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_22	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_PC2_Cluster:All Samples_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_12	{}
+Subsample:0408-FW303.11.10.23.12.02	Sample_Meas_Cluster:100 Well_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_4	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_species_3	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_species_2	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_species_1	{}
+Subsample:0408-FW303.11.10.23.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_genus_6	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_species_45	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_FPT_Cluster:100 Well: 10 Micron Filter_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_PC2_Cluster:All Samples_158	{}
+Subsample:0408-FW303.11.10.23.12.10	Sample_PC2_Cluster:100 Well: 10 Micron Filter_4	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_4	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_class_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_class_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_class_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_genus_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_genus_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_genus_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_4	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_1	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_species_3	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_species_2	{}
+Subsample:0408-FW303.11.10.23.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_species_1	{}
+Sample:0408-FW303.11.2.20.13	Subsample:0408-FW303.11.2.20.13.02	{'weight': 1}
+Subsample:0408-FW303.11.2.20.13.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_7	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_6	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_FPT_Cluster:All Samples_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_PC2_Cluster:All Samples_21	{}
+Subsample:0408-FW303.11.2.20.13.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_4	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_class_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_3	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_2	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_1	{}
+Subsample:0408-FW303.11.2.20.13.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Sample:0408-FW410.28.46.11.13.12	Subsample:0408-FW410.28.46.11.13.12.02	{'weight': 1}
+Sample:0408-FW410.28.46.11.13.12	Subsample:0408-FW410.28.46.11.13.12.10	{'weight': 1}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_11	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_PC2_Cluster:All Samples_54	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Sample_Meas_Cluster:100 Well_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_phylum_4	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_phylum_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB106_phylum_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_class_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_order_4	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_4	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_3	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_2	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_1	{}
+Subsample:0408-FW410.28.46.11.13.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_class_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_family_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_genus_6	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_species_55	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_FPT_Cluster:100 Well: 10 Micron Filter_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_PC2_Cluster:All Samples_164	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Sample_PC2_Cluster:100 Well: 10 Micron Filter_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_4	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_4	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_family_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_family_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_family_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_genus_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_genus_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_genus_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_species_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_4	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_species_1	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_species_3	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_species_2	{}
+Subsample:0408-FW410.28.46.11.13.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_species_1	{}
+Sample:0408-FW510.26.11.26.12	Subsample:0408-FW510.26.11.26.12.02	{'weight': 1}
+Sample:0408-FW510.26.11.26.12	Subsample:0408-FW510.26.11.26.12.10	{'weight': 1}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_11	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_PC2_Cluster:All Samples_187	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_17	{}
+Subsample:0408-FW510.26.11.26.12.02	Sample_Meas_Cluster:100 Well_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_phylum_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_order_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_family_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_4	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_species_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_species_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 01 Micron Filter_species_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_esv_4	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_esv_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_esv_1	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_esv_3	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_esv_2	{}
+Subsample:0408-FW510.26.11.26.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_esv_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_class_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_order_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_family_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_genus_6	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_species_49	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_FPT_Cluster:100 Well: 10 Micron Filter_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_PC2_Cluster:All Samples_186	{}
+Subsample:0408-FW510.26.11.26.12.10	Sample_PC2_Cluster:100 Well: 10 Micron Filter_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_class_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_class_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_class_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_order_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_genus_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_4	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: Groundwater Activity_species_1	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_esv_3	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW510.26.11.26.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_esv_1	{}
+Sample:0408-FW602.2.26.2.11.28.12	Subsample:0408-FW602.2.26.2.11.28.12.02	{'weight': 1}
+Sample:0408-FW602.2.26.2.11.28.12	Subsample:0408-FW602.2.26.2.11.28.12.10	{'weight': 1}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_family_5	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_genus_4	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_species_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Taxon_Cluster:100 Well: 02 Micron Filter_esv_12	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_FPT_Cluster:100 Well: 02 Micron Filter_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_PC2_Cluster:All Samples_123	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_PC2_Cluster:100 Well: 02 Micron Filter_15	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Sample_Meas_Cluster:100 Well_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_phylum_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_class_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_order_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 10 Micron Filter_order_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_order_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_family_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_family_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_family_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Spring Sampling: 02 Micron Filter_genus_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_genus_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: EB271_genus_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_species_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp1_Exp2_Cluster:100 Well: 02 Micron Filter_Pilot Project: Groundwater Activity_species_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.02	Exp2_Exp1_Cluster:100 Well: 10 Micron Filter_100 Well: 02 Micron Filter_esv_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_order_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_family_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_genus_5	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_species_15	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_Taxon_Cluster:100 Well: 10 Micron Filter_esv_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_FPT_Cluster:All Samples_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_FPT_Cluster:100 Well: 10 Micron Filter_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_PC2_Cluster:All Samples_146	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Sample_PC2_Cluster:100 Well: 10 Micron Filter_5	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_phylum_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_phylum_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_phylum_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_4	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 10 Micron Filter_class_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_4	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 02 Micron Filter_class_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB271_class_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_3	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_2	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Spring Sampling: 01 Micron Filter_family_1	{}
+Subsample:0408-FW602.2.26.2.11.28.12.10	Exp1_Exp2_Cluster:100 Well: 10 Micron Filter_Pilot Project: EB106_family_3	{}
