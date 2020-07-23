@@ -1,6 +1,6 @@
 # MicrobeEnvironmentGraphLearn
 
-Repository for graph analysis and graph learning on microbial environmental data
+## Repository for graph analysis and graph learning on microbial environmental data
 
 
 The analysis can be replicated as follows:
@@ -27,7 +27,7 @@ tail -n+2 masterG_edges.tsv > masterG_edges_nohead.tsv
 java -classpath MAK.jar DataMining.util.EdgestoInts masterG_edges_nohead.tsv
 
 4. Run SNAP node2vec with the following parameters and slurm script:
-
+```
 #!/bin/bash
 #SBATCH --qos=lr_normal
 #SBATCH --partition=lr_bigmem
@@ -46,7 +46,7 @@ date
 ntindex.emb -l:100 -r:100 -k:10 -e:10 -d:128 -p:1 -q:1
 
 date
- 
+```
 
 
 
