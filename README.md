@@ -19,11 +19,13 @@ The analysis can be replicated as follows:
    will be formatted to work with the Embiggen package.
 
    The file:
+   
    ```masterG_edges_nodes_intindex.txt```
 
    will be formatted to work with the SNAP framework algorithms, including node2vec.
 
    In addition, the file:
+   
    ```masterG.edgelist_col12_nodes_meta.txt```
    contains node types formatted as metadata for the [embedding projector](https://projector.tensorflow.org/).
 
