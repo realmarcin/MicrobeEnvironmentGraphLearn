@@ -47,7 +47,7 @@ date
 date
 ```
 
-4. The resulting embeddings can be visualized using the UMAP notebook in [this repository] (https://github.com/realmarcin/MicrobeEnvironmentGraphLearn/blob/master/embedding_umap.ipynb). 
+4. The resulting embeddings can be visualized using the UMAP notebook in [this repository](https://github.com/realmarcin/MicrobeEnvironmentGraphLearn/blob/master/embedding_umap.ipynb). 
 
 
 
