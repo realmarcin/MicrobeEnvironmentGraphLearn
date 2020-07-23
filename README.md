@@ -6,25 +6,25 @@
 The analysis can be replicated as follows:
 
 1. Obtain environmental microbe data graph with file name:
-```masterG.edgelist.tsv```
+   ```masterG.edgelist.tsv```
 
 2. Assuming in main repository directory, run:
-```make```
+   ```make```
 
-This will generate a set of files and the file:
+   This will generate a set of files and the file:
 
-```masterG_edges.tsv```
+   ```masterG_edges.tsv```
 
-will be formatted to work with the Embiggen package.
+   will be formatted to work with the Embiggen package.
 
-The file:
-```masterG_edges_nodes_intindex.txt```
+   The file:
+   ```masterG_edges_nodes_intindex.txt```
 
-will be formatted to work with the SNAP framework algorithms, including node2vec.
+   will be formatted to work with the SNAP framework algorithms, including node2vec.
 
-In addition, the file:
-```masterG.edgelist_col12_nodes_meta.txt```
-will be node types formatted for the online embedding projector.
+   In addition, the file:
+   ```masterG.edgelist_col12_nodes_meta.txt```
+   will be node types formatted for the online embedding projector.
 
 3. Run SNAP node2vec with the following parameters and slurm script using ```masterG.edgelist_intindex.txt``` as input:
 ```
