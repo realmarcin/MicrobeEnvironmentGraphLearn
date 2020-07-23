@@ -22,7 +22,7 @@ The analysis can be replicated as follows:
    
    ```masterG_edges_nodes_intindex.txt```
 
-   will be formatted to work with the SNAP framework algorithms, including node2vec.
+   will be formatted to work with the [SNAP HPC implementation](https://github.com/snap-stanford/snap/tree/master/examples/node2vec), including node2vec.
 
    In addition, the file:
    
