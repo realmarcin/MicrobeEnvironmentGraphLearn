@@ -16,7 +16,7 @@ The analysis can be replicated as follows:
 
    ```masterG_edges.tsv```
 
-   will be formatted to work with the Embiggen package.
+   will be formatted to work with the [Embiggen package](https://github.com/monarch-initiative/embiggen).
 
    The file:
    
